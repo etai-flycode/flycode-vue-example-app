@@ -3,6 +3,8 @@ environments:
   - name: master
     branch: master
     mode: pull-request
+    
+    
 apps:
   - name: flycode-vue-example-app
     path: ""
